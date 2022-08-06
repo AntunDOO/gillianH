@@ -1,0 +1,3 @@
+Here are the instructions!
+
+# Dakle, ovdje cemo sada malo stvoriti uvjete za primjenu pull.a i fetch-a taako da cemo editati i add-ati fajlove direktno na GH-repo copiji cime simuliramo promjene na GH-repou od strane druugih developera!
